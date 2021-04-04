@@ -18,5 +18,6 @@ def run(names: list) -> dict:
 
 
 if __name__ == '__main__':
+    #test data
     list = ['anurag', 'rahul', 'saurabh']
     sys.exit(run(list))

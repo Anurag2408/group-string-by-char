@@ -46,6 +46,7 @@ public class GroupNamesByChar {
 
     public static void main(String[] args) throws ParseException {
         List<String> list= new ArrayList<String>();
+        //test data
         list.add("anurag");
         list.add("rahul");
         list.add("Saurabh");
